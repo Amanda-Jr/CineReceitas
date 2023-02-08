@@ -51,6 +51,12 @@ header{
         max-width: 80%;
         padding: 20px;
     }
+
+    .top-header p{
+        font-size: 20px;
+        margin-top: 5px;
+        text-align: center;
+    }
  
 }
 
@@ -158,10 +164,21 @@ section{
 }
 
 footer {
+    min-width: 100%;
     color: whitesmoke;
     margin-top: 80px;
     background: #080918;
 }
+
+@media (max-width:768px){
+    footer {
+        width: 110%;
+        
+    }
+ 
+}
+
+
 
 .footer_cc {
     display: flex;

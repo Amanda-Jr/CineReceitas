@@ -45,43 +45,43 @@ function carregaDicionario(){
         {
             receita: "Tostadas - Princesa e o Sapo", 
             imagem:"https://3.bp.blogspot.com/-ZSlFVZqqalM/VWeIEZSRUcI/AAAAAAAACCE/-psjRb8e7ZI/s1600/tumblr_m9nd68VKBC1qivnwio1_500.gif",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"1 xícara de leite, 1 limão, 4 xícaras de farinha de trigo, ⅓ de xícara de açúcar cristal, 2 colheres de chá de fermento químico, ½ colher de chá de bicarbonato de sódio, ½ colher de chá de noz moscada (opcional), ⅓ de xícara de água, 1 ovo, 1 colher de chá de assência de baunilha (opcional), Açúcar de confeiteiro, óleo para fritar.", 
+            preparo:"Misture o Limão + Leite e deixe descansar por 10 minutos. Misture todos os ingredientes secos. Adicione o ovo, água e essência de baunilha e a mistura de limão e leite que fizemos no ínicio. Misture até virar uma massa homogênea. Jogue farinha em uma superfície para a massa não grudar e abra a massa, com cerca de 1 cm de altura. Corte em retângulos ou na forma que desejar e frite no óleo até dourar! CUIDADO: elas fritam muito rápido, então aconselho fritar de 1 em 1. Depois de frito, passe as tostadas na açúcar de confeiteiro a gosto.",
         },
 
         {
             receita: "Ratatouille - Ratatouille", 
-            imagem:"http://2.bp.blogspot.com/_4xjylaNWx9g/TF9FmM6EjQI/AAAAAAAADXM/7EG4x_gTlPk/w1200-h630-p-k-no-nu/rata.jpg",
-            ingredientes:"", 
-            preparo:"",
+            imagem:"https://rollingstone.uol.com.br/media/uploads/ratatouille_filme_reprod.jpg",
+            ingredientes:"2 abobrinhas, 1 berinjela, 3 tomates, 2 dentes de alho picados, 2 colheres de sopa de azeite de oliva, 2 galhos de tomilho, Sal e pimenta. Piperade (molho): 1 pimentão vermelho sem semente, sem pele e picado, 1 pimentão amarelo sem semente, sem pele e picado, 1 dente de alho picado,  ½ cebola picada, 6 tomates grandes sem pele, sem semente e picados, 2 galhos de tomilho, 2 galhos de salsinha, 1 folha de louro, 2 colheres de azeite de oliva, 2 colher de páprica, Sal e pimenta a gosto.", 
+            preparo:"Em uma frigideira grande, aqueça uma colher de azeite e refogue a cebola e o alho, até cebola começar a ficar transparente, aproximadamente 8 minutos em fogo médio. Acrescente os tomates, as ervas (eu amarrei tudo em um buque garni) e refogue em fogo baixo até os tomates começarem a desmanchar, nãos deixe dourar. Adicione os pimentões, a páprica e refogue bem, mais ou menos uns 7 minutos. Retire as ervas. Tempere com sal e pimenta a gosto e bata tudo em um liquidificador. Reserve 4 colheres e despeje o restante no fundo do pirex. Aqueça o forno a 135 C.  Corte os legumes com ajuda de uma mandolina ou não, em fatias de aproximadamente 3 mm. Para que as berinjelas não escureçam, coloque as fatias em um pote de água com sal. Em cima do molho, acomode os legumes, alternadamente, conforme a foto acima. De fora pra dentro. No final tempere com sal e pimenta. Misture o alho picado, o azeite de oliva e as folhinhas de tomilhos e despeje por cima dos legumes. Cubra com papel manteiga para evitar com os legumes ressequem e leve ao forno por 1h30. Se fizer versões menores como as da foto, levará apenas 40 minutos. Você saberá que está cozido quando as bordas do pirex começarem a caramelizar. Para servir, pegue o molho que você reservou, misture com azeite e regue o prato e decore com algumas folhinhas de salsinha.  Assim como o Remy faz no filme.",
+        },
+
+        {
+            receita: "Bolinho escocês - Valente", 
+            imagem:"https://quartelgeneralhome.files.wordpress.com/2021/06/valente-1.jpg",
+            ingredientes:"500g de farinha de trigo, ¼ xícara (chá) de açúcar, 1 e ½ colher (sopa) de fermento biológico seco (15g), Pitada de sal, 2 ovos, 150ml de leite, 2 colheres (sopa) de manteiga derretida (40g), 150g de açúcar de confeiteiro, ¼ xícara (chá) de leite, 100g de cereja em calda escorrida.", 
+            preparo:"Na vasilha, coloque o fermento biológico seco junto com o leite levemente morno e misture. Acrescente o açúcar, a manteiga derretida e os ovos batidos. Misture a cada adição de ingredientes. Agregue a farinha de trigo aos poucos e depois o sal. Assim que ganhar mais consistência, despeje a massa na mesa enfarinhada e sove até ficar lisa e elástica. Coloque na vasilha enfarinhada, cubra com um pano ou tampa e deixe descansar por cerca de 30 minutos ou até dobrar de volume. Sobre a mesa enfarinhada, divida a massa em porções de 30g cada. Boleie cada porção e acomode na forma enfarinhada deixando um espaço entre cada bolinho. Cubra com um pano e deixe descansar novamente por cerca de 20 minutos. Com as mãos, de uma leve achatada em cima de cada bolinho. Leve ao forno preaquecido a 180°C por cerca de 25 minutos. Retire do forno e deixe esfriar. Numa vasilha, coloque o açúcar de confeiteiro e agregue o leite aos poucos até ficar na textura de um creme. Banhe o topo de cada bolinho no fondant, finalize com a cereja e sirva.",
         },
 
         {
             receita: "Sopa do ingrediente secreto - Kung Fu Panda", 
             imagem:"https://pa1.narvii.com/6307/4ac5076c1ec0c165b69742ec6d03d0d72361c976_hq.gif",
             ingredientes:"2 litros de água, 1 pacote de macarrão para yakisoba, 1 xícara de cenoura, 1 xícara de nabo, 1 cebola roxa, 3 dentes de alho, 1 pedaço de Gengibre, 1 pedaço de alho poró, 100g de shimeji, Um pouco de Shoyu, 2 folhas de louro, Sal a gosto, Cebolinha", 
-            preparo:"",
-        },
-
-        {
-            receita: "Bolinho escocês - Valente", 
-            imagem:"https://quartelgeneralhome.files.wordpress.com/2021/06/valente-1.jpg",
-            ingredientes:"", 
-            preparo:"",
+            preparo:"Coloque na panela o azeite e refogue o alho poró, o alho, a cebola, as folhas de louro e o gergelim. Ponha uma pitada de sal a acrescente o gengibre o shimeji a cenoura e o nabo. Refogue por 3 minutos e adicione o shoyu. Adicione 2 litros de água e espere ferver. Coloque o macarrão na água fervente até a massa ficar ao dente. Finalize com cebolinha e sirva.",
         },
 
         {
             receita: "Biscoitos - Alice no país das maravilhas", 
             imagem:"https://i.pinimg.com/564x/a7/07/7a/a7077a845dfcc0151e18fef4575e51c3.jpg",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"Biscoitos: 2 xícaras de manteiga com sal amolecida, 2 xícaras de açúcar, 2 ovos, 2 colheres de sopa de baunilha, 4 colheres de chá. fermento em pó, 6 xícaras de farinha.     Creme amanteigado: 1 xícara de manteiga amolecida, De 3 1/2 a 4 xícaras de açúcar em pó, 1 colher de chá de baunilha, 1 a 2 colheres de sopa de leite, Corante alimentício de sua preferência.", 
+            preparo:"Em uma tigela grande, ou em uma batedeira, bata a manteiga e o açúcar. É importante que a manteiga esteja amolecida, mas não derretida. Em seguida, misture os ovos, um de cada vez, apenas até que estejam incorporados. Misture a baunilha. Adicione os ingredientes secos, adicione o fermento em pó e misture tudo. Em seguida, adicione a farinha, duas xícaras de cada vez. Abra a massa e prepare a superfície para a massa com bastante farinha. Abra a massa com cerca de 1 cm de espessura. Recorte os Cookies no tamanho de sua preferência. Coloque-os em uma assadeira preparada. Asse seus biscoitos no forno a 180°C por cerca de 8 minutos. Enquanto os biscoitos assam e esfriam, faça o glacê. Quando faço o creme, apenas misturo a manteiga e o açúcar de confeiteiro e adiciono a baunilha. Se ficar muito grosso, adiciono leite. Se estiver muito ralo, adicione mais açúcar usando as proporções da receita. Divida a cobertura em quatro tigelas e use cores diferentes para pintar as porções. Por último decore e sirva.",
         },
 
         {
             receita: "Spaghetti à Puttanesca - Desventuras em série", 
             imagem:"https://www.hintofhealthy.com/wp-content/uploads/2020/01/Spaghetti-alla-puttanesca-1.jpg",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"Manjericão, 2 dentes de alho picados, 6 anchovas em conserva amassadas, Azeite, 1 lata de tomate pelado, 1 xícara de azeitona preta sem caroço, 1/4 xícara de alcaparras, Pimenta do reino á gosto, Espaguete.", 
+            preparo:"Coloque água para ferver com sal e cozinhe o macarrão até ficar ao dente. Numa panela refougue o alho e as anchovas. Depois acrescente o tomate, a azeitona e as alcaparras. Tempere com manjericão e pimenta. Adicione o macarrão ao molho e sirva.",
         },
 
         {

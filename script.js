@@ -3,14 +3,14 @@ function carregaDicionario(){
         {
             receita: "Manjar Turco - As Crônicas de Nárnia", 
             imagem:"https://www.grandturkishbazaar.com/pt/wp-content/uploads/2017/12/rose-flavoured-turkish-delight-2.jpg",
-            ingredientes:"1 xícara Água 5 colheres (sopa) Amido de Milho 2 xícaras Açúcar 1/2 xícara Suco de Laranja natural 2 colheres (sopa) Xarope de Romã Açúcar de confeiteiro suficiente para empanar", 
+            ingredientes:"1 xícara, Água, 5 colheres (sopa) Amido de Milho, 2 xícaras Açúcar, 1/2 xícara Suco de Laranja natural, 2 colheres (sopa) Xarope de Romã, Açúcar de confeiteiro suficiente para empanar", 
             preparo:"Em um panela, colocar para aquecer 1/2 xícara de água. Quando a água estiver quente, adicionar o açúcar e o suco de laranja. Mexer até o açúcar derreter. Enquanto o açúcar derrete, misturar o restante da água com o amigo de milho. Quando o açúcar estiver todo derretido, juntar o amido de milho com a calda e deixar engrossar até ficar com textura de gel (cerca de 15 minutos), mexendo sempre para que não grude no fundo da panela. Desligar o fogo e adicionar o xarope de romã. Forrar uma forma pequena com papel filme e despejar a mistura. Esperar esfriar por no mínimo 3 horas em temperatura ambiente. Polvilhar em uma tábua açúcar de confeiteiro e colocar o manjar turco. Cortar em cubos e empanar o manjar na açúcar de confeiteiro",
         },
         
         {
             receita: "Biscoito gatinho - Steven Universe", 
             imagem:"https://i.etsystatic.com/6918711/r/il/3da73d/1023612699/il_1588xN.1023612699_4gzh.jpg",
-            ingredientes:"2 xícaras de farinha de trigob 1/2 xícaras de chocolate em pó 2 colheres (sopa) de chocolate em pó 1 e 1/2 xícaras  de açúcar de confeiteiro 1/4 de colher (chá) de sal 2 gemas 1 colher (chá) de baunilha 226 gramas de manteiga", 
+            ingredientes:"2 xícaras de farinha de trigo, 1/2 xícaras de chocolate em pó, 2 colheres (sopa) de chocolate em pó, 1 e 1/2 xícaras  de açúcar de confeiteiro, 1/4 de colher (chá) de sal, 2 gemas, 1 colher (chá) de baunilha, 226 gramas de manteiga", 
             preparo:"Peneire junto a farinha, o chocolate em pó, o sal e reserve Bata a manteiga com o açúcar até ficar leve e claro. Adicione as gemas, a baunilha e incorpore. Reduza a velocidade da batida e adicione a mistura de farinha. Bata até formar uma massa resistente. Divida em duas bolas, envolva em plástico filme, e leve a geladeira por 20 minutos. Abra a massa de biscoito e corte usando o cortador de biscoitos. Fure dois círculos para os olhos em metade dos biscoitos (um você corta, outro não, para fazer o sanduíche de biscoito). Asse por 15 minutos a 175°C . Depois, deixe esfriar por 30 minutos. Após ter deixado esfriar, pegue um biscoito sem os olhos, e coloque em cima o sorvete. Depois, feche com um biscoito com olhos e cubra com plástico filme e coloque no freezer.",
         },
 
@@ -31,7 +31,7 @@ function carregaDicionario(){
         {
             receita: "Trenette al pesto - Lucca", 
             imagem:"https://theeverydaymouse.com/wp-content/uploads/2022/01/luca-trenette-al-pesto-1-720x720.jpg",
-            ingredientes:"500g de Trenette (ou macarrão de sua preferência), 100gramas de vagem, 1 batata grande em cubos, 50g de mangericão, 2 dentes de alho, 1 pitada de sal, 5 col sopa de queijo parmesão, 30g de nozes, 100ml de azeite extra-virgem",  
+            ingredientes:"500g de Trenette (ou macarrão de sua preferência), 100g de vagem, 1 batata grande em cubos, 50g de mangericão, 2 dentes de alho, 1 pitada de sal, 5 col sopa de queijo parmesão, 30g de nozes, 100ml de azeite extra-virgem",  
             preparo:"Coloque num bowl o alho, o manjericão, o sal e parte do azeite e amasse, adicione as nozes e o parmesão e o restante do azeite misturando até formar uma pasta. Numa panela coloque água e espere ferver. Adicione sal, a batata, a vagem e o macarrão. Cozinhe o macarrão até ficar ao dente. Reserve um pouco da água do cozimento e escorra o restante. Adicione a água do cozimento ao molho pesto e misture o molho ao macarrão. Sirva em seguida.",
         },
 
@@ -43,78 +43,78 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Tostadas - Princesa e o Sapo", 
+            imagem:"https://3.bp.blogspot.com/-ZSlFVZqqalM/VWeIEZSRUcI/AAAAAAAACCE/-psjRb8e7ZI/s1600/tumblr_m9nd68VKBC1qivnwio1_500.gif",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Ratatouille - Ratatouille", 
+            imagem:"http://2.bp.blogspot.com/_4xjylaNWx9g/TF9FmM6EjQI/AAAAAAAADXM/7EG4x_gTlPk/w1200-h630-p-k-no-nu/rata.jpg",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Sopa do ingrediente secreto - Kung Fu Panda", 
+            imagem:"https://pa1.narvii.com/6307/4ac5076c1ec0c165b69742ec6d03d0d72361c976_hq.gif",
+            ingredientes:"2 litros de água, 1 pacote de macarrão para yakisoba, 1 xícara de cenoura, 1 xícara de nabo, 1 cebola roxa, 3 dentes de alho, 1 pedaço de Gengibre, 1 pedaço de alho poró, 100g de shimeji, Um pouco de Shoyu, 2 folhas de louro, Sal a gosto, Cebolinha", 
+            preparo:"",
+        },
+
+        {
+            receita: "Bolinho escocês - Valente", 
+            imagem:"https://quartelgeneralhome.files.wordpress.com/2021/06/valente-1.jpg",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Biscoitos - Alice no país das maravilhas", 
+            imagem:"https://i.pinimg.com/564x/a7/07/7a/a7077a845dfcc0151e18fef4575e51c3.jpg",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Spaghetti à Puttanesca - Desventuras em série", 
+            imagem:"https://www.hintofhealthy.com/wp-content/uploads/2020/01/Spaghetti-alla-puttanesca-1.jpg",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Bolo chocolate - Matilda", 
+            imagem:"http://media-cache-ec0.pinimg.com/736x/1d/de/24/1dde245b31f6e0694c8241fdb778bd6a.jpg",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Spaghetti com Almôndegas - A Dama e o Vagabundo", 
+            imagem:"https://media.giphy.com/media/sC2mGly8IxF2E/giphy.gif",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Sanduíche perfeito - Hora de Aventura", 
+            imagem:"https://4.bp.blogspot.com/-CtCD9PEmkWg/U1MYHczJbDI/AAAAAAAAIpA/m83llTMxOC8/s1600/Jake's+Time+Sandwich.png",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Torta de manteiga escocesa - Pica-Pau", 
+            imagem:"https://cozinhacuriosa.com.br/wp-content/uploads/2021/08/butter-768x437.png",
             ingredientes:"", 
             preparo:"",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
-        },
-
-        {
-            receita: "", 
-            imagem:"./img/",
+            receita: "Arepas - Encanto", 
+            imagem:"https://i.pinimg.com/736x/82/87/93/828793ad6354fe499ccf969879f5230b.jpg",
             ingredientes:"", 
             preparo:"",
         },

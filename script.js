@@ -85,42 +85,43 @@ function carregaDicionario(){
         },
 
         {
-            receita: "Bolo chocolate - Matilda", 
-            imagem:"http://media-cache-ec0.pinimg.com/736x/1d/de/24/1dde245b31f6e0694c8241fdb778bd6a.jpg",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Torta de manteiga escocesa - Pica-Pau", 
+            imagem:"https://cozinhacuriosa.com.br/wp-content/uploads/2021/08/butter-768x437.png",
+            ingredientes:"Massa: 1 xícara de chá de farinha de trigo, 3 colheres de sopa de açúcar, 2 colheres de sopa de açúcar mascavo, 2 colheres de sopa de chocolate em pó 50% cacau, 2 colheres de sopa de castanhas trituradas, 3 colheres de sopa de manteiga sem sal, 1 ovo.   Recheio: ½ xícara de chá de açúcar, 2 colheres de sopa de manteiga, 1 caixa de creme de leite morno, ½ lata de leite condensado, 1 colher de chá de essência de baunilha.   Cobertura: 120 gramas de chocolate ao leite picado.", 
+            preparo:"Massa: Acrescente em uma tigela, a farinha de trigo, o açúcar refinado, o açúcar mascavo, o chocolate em pó e as castanhas trituradas. Misture todos os ingredientes com as mãos e adicione a manteiga. Misture com a ponta dos dedos, amassando a massa até formar uma farofa úmida. Bata levemente o ovo e acrescente à mistura. Misture com as mãos até unir a massa por completo e desgrudar dos dedos. Transfira a massa para uma assadeira quadrada (18×18), forrada com papel manteiga. Pressione a massa no fundo da assadeira com a ponta dos dedos ou com uma espátula de silicone até ficar bem nivelada. Leve para a geladeira por cerca de 15 minutos enquanto pré-aquece o forno a 200 °C. Retire da geladeira, faça diversos furos na massa com um garfo e leve ao forno pré-aquecido a 200 °C por 30 minutos. Retire do forno e deixe esfriar em temperatura ambiente enquanto prepara o recheio da torta escocesa.    Recheio: Leve uma panela de fundo grosso ao fogo baixo e adicione o açúcar refinado. Misture até que o açúcar derreta por completo. Acrescente a manteiga e o creme de leite, misture rapidamente e espere o caramelo derreter completamente. Adicione o leite condensado, a essência de baunilha e misture até desgrudar do fundo da panela (ponto de brigadeiro para enrolar). Coloque rapidamente todo o caramelo sobre a massa da torta escocesa e nivele bem com uma espátula. Leve para a geladeira por cerca de 2 horas ou até o caramelo ficar bem firme.   Cobertura: Derreta o chocolate a cada 30 segundos no micro-ondas em potência baixa, misturando bem em cada intervalo. Despeje o chocolate sobre o recheio de caramelo e espalhe delicadamente. Bata a forma levemente na bancada para que a cobertura de chocolate fique bem lisa. Leve a torta escocesa para a geladeira por cerca de 15 minutos ou até o chocolate firmar. Retire a torta escocesa da forma com o papel manteiga. Puxe delicadamente o papel manteiga da torta de manteiga escocesa. Coloque a torta sobre uma tábua e esquente a faca na água quente. Seque a faca e corte os pedaços da torta escocesa do tamanho que preferir e sirva.",
         },
+
 
         {
             receita: "Spaghetti com Almôndegas - A Dama e o Vagabundo", 
             imagem:"https://media.giphy.com/media/sC2mGly8IxF2E/giphy.gif",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"500 g Carne Bovina moída, 2 unidades Cebola picada, 8 dentes Alho picado, 1/2 xícara Azeitona picada, 1/4 xícara Azeite, 1 Ovo batido, 1 colher (sobremesa) Salsinha picada, 2 colheres (sopa), Sal, 5 colheres (sopa) Farinha de Rosca, 2 latas Molho de Tomate, 1 xícara Água, 300g Espaguete cozido al dente.", 
+            preparo:"Em um recipiente, colocar a carne moída, 1 cebola picada, o ovo, a salsinha, o sal e a farinha de rosca. Misturar bem até formar uma massa homogênea. Fazer as almôndegas pequenas, modelando com as mãos. Em uma panela, aquecer o azeite e refogar a outra cebola e o alho. Juntar o molho de tomate e a água. Levar ao fogo e deixe ferver. Depois acrescentar as azeitonas e o manjericão. Em seguida, acrescentar as almôndegas, com cuidado para não desmanchá-las e deixar cozinhar por 15 minutos no fogo baixo. Adicionar o macarrão no molho com as almôndegas. Misturar bem, mas com cuidado para não quebrar as almôndegas. Servir em seguida",
         },
 
         {
             receita: "Sanduíche perfeito - Hora de Aventura", 
             imagem:"https://4.bp.blogspot.com/-CtCD9PEmkWg/U1MYHczJbDI/AAAAAAAAIpA/m83llTMxOC8/s1600/Jake's+Time+Sandwich.png",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"Pão do tipo italiano, 250g de bife de alcatra, 1 ramo de alecrim, 1 ramo de tomilho, 3 colheres de sopa de requeijão, 2 picles de pepinos grandes, Endro ou Erva doce fresca, 1 ovo cozido, 4 fatias de peito de peru, Fatias de pepino japonês, 1 tomate italiano, ½ cebola, 4 fatias de bacon", 
+            preparo:"Levar a carne com as ervas a um saco hermético, retirar o ar e selar. Levar para cozinhar em água em fogo baixo a 50 graus (antes de formar bolhas) por cerca de duas horas. Ou se preferir, marinar a carne nas ervas e sal por cerca de 30 minutos e grelhar em frigideira em fogo alto por 3 minutos de cada lado. Cortar o pão no meio e torrar no forno por 6 minutos com um maçarico. Passar o requeijão dos dois lados. Dispor em um lado o picles em fatias finas e no outro, algumas folhas de erva doce fresca. Cortar o ovo cozido em fatias e dispor no topo dos picles. Dispor as fatias de peito de peru e, por cima, o pepino, fatias de tomate e de cebola. Quando a carne estiver pronta, dispor por cima. Temperar com uma pitada de sal. Para finalizar, adicionar 4 fatias de bacon crocantes. Fechar o sanduíche e aproveitar!",
         },
 
         {
-            receita: "Torta de manteiga escocesa - Pica-Pau", 
-            imagem:"https://cozinhacuriosa.com.br/wp-content/uploads/2021/08/butter-768x437.png",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Bolo chocolate - Matilda", 
+            imagem:"http://media-cache-ec0.pinimg.com/736x/1d/de/24/1dde245b31f6e0694c8241fdb778bd6a.jpg",
+            ingredientes:"Massa: 2 xícaras Farinha de Trigo, 3 unidades Ovos, 1 colher (sopa) Fermento Químico, 1 1/2 xícara Chocolate em Pó, 1/2 xícara Açúcar Refinado, 1/2 xícara Açúcar Mascavo, 1/2 xícara Óleo, 1 xícara Leite.   Cobertura: 250 g Chocolate Meio Amargo, 250 g Creme de Leite.", 
+            preparo:"Untar uma assadeira com fundo removível com manteiga e farinha. Pré aquecer o forno a 180ºC. Peneirar a farinha, o fermento e o chocolate em pó e reservar em uma tigela. Separar as gemas das claras e bata as gemas com o açúcar refinado e o açúcar mascavo, até criar uma mistura homogênea. Acrescentar o leite e o óleo e misturar bem. Em uma batedeira, bater as claras em neve, incorporar as três misturas de maneira delicada. Despejar a massa em uma assadeira já untada e levar ao forno por 35 minutos. Picar o chocolate meio amargo e derreter em banho maria. Adicionar o creme de leite e misturar até incorporar. Esperar o bolo esfriar para desenformar e cortar ao meio com um fio de nylon ou linha de costura. Rechear com uma parte da ganache. Cobrir com o bolo com a restante da ganache.",
         },
 
         {
             receita: "Arepas - Encanto", 
             imagem:"https://i.pinimg.com/736x/82/87/93/828793ad6354fe499ccf969879f5230b.jpg",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"1 xícara de fubá, 2 colheres de sopa de manteiga morna, 3 pitadas de sal, Azeite, 1/2 xícara de queijo mussarela ralado, 1 1/4 xícara de água morna.", 
+            preparo:"Primeiro, adicione a farinha de milho a uma tigela. Em seguida, adicione lentamente a manteiga, o sal e a água, misturando com as mãos até que a massa fique pegajosa. Se a massa ficar seca e quebradiça, adicione mais água. Se estiver muito pegajoso ou aguado, adicione mais farinha de milho. Assim que a massa atingir uma textura homogênea, acrescente o queijo muçarela ralado e incorpore tudo na massa com as mãos. Em seguida, retire pedaços de massa - eles devem ser um pouco menores do que o tamanho do seu punho. Enrole cada porção em uma bola e pressione suavemente entre as palmas das mãos para achatá-lo em um círculo. Eles devem ter cerca de meio centímetro de espessura. Coloque cada arepa crua em papel manteiga para que tenham um lugar para descansar antes de cozinhar. Depois que todos estiverem formados, regue o azeite em uma panela ou frigideira e aqueça em fogo médio. Quando o óleo estiver quente, adicione arepas suficientes na panela para que ainda haja espaço entre elas e não se toquem. Deixe cada lado cozinhar até dourar, o que deve levar aproximadamente 7 minutos de cada lado. Depois que cada arepa estiver cozida uniformemente, transfira para um prato e deixe esfriar por um momento antes de servir",
         },
 
         {
-            receita: "", 
+            receita: "Onigiri - Viagem de chihiro", 
             imagem:"./img/",
             ingredientes:"", 
             preparo:"",

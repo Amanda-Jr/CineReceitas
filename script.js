@@ -122,23 +122,23 @@ function carregaDicionario(){
 
         {
             receita: "Onigiri - Viagem de chihiro", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            imagem:"https://i2.wp.com/cebolaverde.com.br/wp-content/uploads/2020/07/chihiro_Easy-Resize.com_.jpg?zoom=2&resize=585%2C585&ssl=1",
+            ingredientes:"1 copo médio de Arroz Japonês, 1 colher de chá de sal (6g), Algumas gotas de Saquê (Opcional), Nori (Algas) cortados para decoração", 
+            preparo:"Ponha o arroz num bowl e lave o arroz até a água que sair limpa; Adicione um copo de água e algumas gotas de saquê; Cozinhe esse arroz; Para ajudar a fazer o formato do Onigiri, em uma tijela pequena com Película Plástica; Coloque um pouco de sal no arroz e molde em formato triangular, se você quiser adicione Gergelins.",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Pão de canela - Para todos os garotos que já amei", 
+            imagem:"https://pbs.twimg.com/media/DmGLVPWX4AEbL_w.jpg",
+            ingredientes:"Massa:750g de farinha de trigo, 60g de manteiga, 1 pitada de sal, 200ml de leite, 1 colher (sopa) de fermento em pó, 2 colheres (sopa) de açúcar refinado.    Recheio: 40g de manteiga, 200g de açúcar mascavo, 1 colher (sopa) de canela em pó.", 
+            preparo:"Misture os ingredientes secos em uma tigela grande. Em seguida, acrescente a manteiga amolecida e misture até se formarem migalhas grossas. Comece adicionando o leite devagar enquanto mexe. A massa deverá estar mais consistente e descolar com facilidade da tigela. Se isso não acontecer, adicione mais farinha. Transfira a massa para uma superfície lisa, limpa e polvilhada com farinha e fique socando e amassando durante 1 a 2 minutos. Deixe a massa repousar enquanto prepara o recheio: numa tigela misture o açúcar e a canela. Abra a massa com um rolo, num formato retangular. Espalhe nela a manteiga por toda a área e polvilhe a mistura de açúcar e canela. Enrole como um rocambole. Corte em fatias com pouco mais de 1cm de largura, e leve ao forno pré-aquecido a 180o C, num tabuleiro forrado com papel-manteiga. Passados 15-20 minutos, retire-os do forno.",
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Cerveja Amanteigada - Harry Potter", 
+            imagem:"https://1.bp.blogspot.com/-sCg65PqvPvs/VAPpX-MulkI/AAAAAAAADoo/2DDN7ZzXNTo/s1600/22.jpg",
+            ingredientes:"500 ml de sorvete de creme/baunilha (1/4 do pote de 2 litros), 100g de manteiga em temperatura ambiente (ou meia xícara), 1 xícara (chá) de açúcar mascavo, 1/2 colher (sopa) de canela em pó, 1/2 colher (café) de cravo em pó, nóz moscada e gengibre em pó à gosto, 1 garrada de espumante (mais ou menos 700 ml).", 
+            preparo:"Misture bem a manteiga com o açúcar e os condimentos, acrescente o sorvete e misture mais. Leve ao freezer até congelar. Na hora de servir, coloque 2 a 3 colheres da mistura congelada em um copo, esquente o espumante até começar a ferver, (o álcool vai evaporar) e despeje em cima, depois mexa até incorporar tudo. Aguarde um pouco e o creme vai subir formando o colarinho do chopp.",
         },
 
         {

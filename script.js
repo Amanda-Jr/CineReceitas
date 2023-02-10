@@ -198,10 +198,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Calzone - Ursos sem curso ", 
+            imagem:"https://i.pinimg.com/originals/b3/27/05/b327052619e89619a70bdea7dc9a0a53.jpg",
+            ingredientes:"Massa: 1 colher de chá. fermento em pó, 155g farinha, 1/2 colher de chá. de sal, 60 ml. de azeite. Recheio: 2 colheres de sopa. de azeite, 1,5kg. de tomate, 1/2 cebola picada, 1 Colher de Sopa. vinagre balsâmico, 1 dente de alho picado, 1 punhado de orégano, 5 folhas de manjericão, 1 pitada de açúcar, Água, Sal e pimenta a gosto, Queijo mussarela, Fatias de Pepperoni ou Salame            ", 
+            preparo:"Lave os tomates e faça cortes em “X” nas pontas. Escalfe os tomates: Leve a água para ferver e coloque os tomates um de cada vez ou em pequenas quantidades na água até que a pele comece a sair, passe imediatamente para uma tigela com água fria e retire a pele completamente. Pique os tomates em pedaços médios. Aqueça o azeite em uma panela. Adicione a cebola e cozinhe em fogo baixo por 4-5 minutos até ficar transparente, acrescente o alho e frite por 1 minuto. Adicione os pedaços de tomate, orégano, manjericão, vinagre balsâmico, açúcar, sal e pimenta. Adicione 1 copo de água. Tampe a panela e cozinhe em fogo médio por 30 minutos, mexendo a cada 5 minutos para não queimar. Deixe esfriar e misture. Dissolva o fermento na água morna. Separadamente, misture a farinha e o sal e depois acrescente a mistura de óleo e fermento. Amasse com as mãos enfarinhadas e, se necessário, acrescente mais farinha ou colheres de sopa de água, até a massa ficar elástica e levemente pegajosa. Deixe em um recipiente tampado e deixe crescer por 1 hora e meia ou até dobrar de tamanho. Abra a massa sobre uma superfície enfarinhada. Faça círculos com a massa. Adicione o nosso molho, queijo e carnes frias, dobre. Feche as bordas com ovo batido. Também com ovo, verniz. Faça cortes nas bordas e na superfície. Asse a 190ºC por 25-30 minutos. Servir.",
         },
 
         {

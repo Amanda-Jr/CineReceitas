@@ -205,6 +205,27 @@ function carregaDicionario(){
         },
 
         {
+            receita: "Batatas e melado - O segredo além do jardim", 
+            imagem:"https://thumbs.gfycat.com/SpecificFickleArgali-size_restricted.gif",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
             receita: "", 
             imagem:"./img/",
             ingredientes:"", 

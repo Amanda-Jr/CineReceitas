@@ -149,10 +149,45 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Bolo de cenoura com cobertura de chocolate quente da Zazá - Cocoricó ", 
+            imagem:"http://1.bp.blogspot.com/_py2I69Pr3vw/R4b2Iknqx1I/AAAAAAAAAdg/Tg9HkoVKtSY/s400/wall2003-3-800.jpg",
+            ingredientes:"Duas cenouras de tamanho médio, Duas xícaras de farinha de trigo, Duas ou três colheres (de sopa) de manteiga, Dois ovos, Uma xícara de açúcar mascavo, Um copo de leite, Uma colher (pequena) de fermento, Chocolate em pó ou em barra", 
+            preparo:"Rale a cenoura e separe. Bata a clara em neve e separe. Bata a gema com a manteiga até virar um creminho e separe. No liquidificador, bata a mistura de gema com manteiga com a farinha, o açúcar, o fermento, a cenoura ralada, e vá acrescentando o leite. Depois, desligue o liquidificador e jogue a clara em neve. Misture com uma colher. Assim o bolo vai ficar fofinho (segredo da Zazá!). Unte uma forma com manteiga ou margarina. Depois jogue um pouco de farinha. Tire o excesso da farinha e despeje a massa. Coloque no forno. Para fazer a calda quente, raspe a barra de chocolate ou jogue na panela algumas colheres de chocolate em pó junto com um pouco de água. Derreta o chocolate em fogo brando. Para a calda ficar cremosa, ponha uma colher (bem pequena) de amido de milho. Depois é só despejar a calda em cima do bolo. Está pronto para comer!",
+        },
+
+        {
+            receita: "Strudel de maçã estilo Queenie - Animais fantásticos e onde habitam", 
+            imagem:"https://pa1.narvii.com/7190/2c4f71b6133d859b31969b53e2d223585a650ad4r1-500-191_hq.gif",
+            ingredientes:"500 g de massa folhada, 4 maçãs vermelhas, 2/3 xícara de açúcar, 2 colheres de sopa. amido de milho, 1 colher de chá. de sal, 1 Colher de Sopa. de canela, 1/2 colher de chá. noz-moscada, 2 colheres de sopa. manteiga derretida, 1 xícara de passas ou cranberries, Gema de ovo, Farinha, copo de açúcar", 
+            preparo:"Descasque as maçãs com cuidado para que as cascas fiquem em tiras circulares e guarde as cascas. Corte as maçãs descascadas em fatias. Adicione o açúcar, amido de milho, sal, canela, noz-moscada, manteiga e passas/cranberries. Mexer. Polvilhe a farinha sobre uma mesa limpa e abra a massa folhada com um rolo, corte as pontas e reserve. Coloque as maçãs e envolva. Transfira para uma forma untada. Com o que sobrou da massa folhada, divida 9 tiras para fazer 3 tranças. Decore o strudel com as tranças e pincele tudo com gema de ovo. Com as tiras de maçã, enrole e forme 6 rosas. Acomode com a ajuda de um palito. Asse por 30 min. a 190ºC, ou até dourar. Polvilhe a sobremesa com açúcar de confeiteiro. Servir.",
+        },
+
+        {
+            receita: "Canapés de maçã e gengibre da Sra Bean - O Fantástico Senhor Raposo", 
+            imagem:"./img/mrFox.JPG",
+            ingredientes:"480g de manteiga amolecida, 2 colheres de sopa. de melado, 6 colheres de sopa. de açúcar mascavo, 1/2 xícara de açúcar, 1 colher de chá. baunilha, 1 colher de chá. noz-moscada em pó, 1 colher de chá. canela em pó, 1 colher de chá. pó de gengibre, 4 xícaras de farinha, 2 colheres de sopa. amido de milho, 1 pitada de sal, 4 maçãs, Açúcar de confeiteiro para decorar", 
+            preparo:"Pré-aqueça o forno a 180ºC. Com uma batedeira, amoleça a manteiga. Adicione o melaço, os dois tipos de açúcar, as especiarias e a baunilha, bata até incorporar. Em outro recipiente, peneire a farinha, o amido de milho e o sal. Adicione esses ingredientes à mistura principal em 3 partes. Com a ajuda de uma colher de sorvete, faça os biscoitos e coloque-os em uma assadeira previamente untada, de forma que fiquem separados. Fatie as maçãs e coloque as fatias sobre os biscoitos. Asse por 15 a 25 min. ou até dourar. Depois de frio, adicione açúcar de confeiteiro para decorar.",
+        },
+
+        {
+            receita: "Suco frutal do deserto - Avatar: a lenda de Aang", 
+            imagem:"./img/Bebida_Avatar.webp",
+            ingredientes:"2 xícaras manga congelada, 2 maçãs, 1/4 colher de chá. de açafrão, 1 banana, 3/4 xícara de água", 
+            preparo:"Corte as maçãs em pedaços, sem tirar a casca. Misture junto com a manga, a banana cortada, a água e o açafrão e bata no liquidificador. Sirva em um copo curto e largo.",
+        },
+
+        {
+            receita: "Bolinhos de espinafre do Kronk - A Nova Onda do Imperador", 
+            imagem:"https://media.tenor.com/ZA1EgS2tyc4AAAAC/kronk-emperors-new-groove.gif",
+            ingredientes:"Massa:1 xícara e 1/4 de farinha de trigo,100g de manteiga,1 ovo, Sal a gosto.     Recheio: 250g de espinafre, 2 colheres de sopa de azeite, 1 colher de sopa de creme de leite azedo (ou creme de leite comum com meio limão espremido), 1 colher de sopa de cream cheese (ou creme de ricota), 3 dentes de alho, 1 xícara de queijo ralado, Sal e pimenta a gosto, 1 pitada de noz moscada.", 
+            preparo:"Primeiro, pegue a farinha de trigo, a manteiga e o sal e bata todos no processador até virar uma espécie de farofa. Depois, adicione o ovo e deixe bater até que a mistura comece a virar um grande pedaço de massa. Assim que ela virar uma bola, retire do processador, coloque dentro de um saco plástico e deixe gelar. Descasque e corte os três dentes de alho. Acenda o fogão, esquente uma panela, coloque o azeite e assim que começar a abrir fervura, jogue o alho. Deixe refogar por alguns segundos e depois coloque o espinafre. Mexa o espinafre até que toda a água evapore, assim que chegar a esse ponto, retire da panela, despeje em uma tigela média e deixe esfriar. Com o espinafre frio, adicione o cream cheese, o creme de leite, o queijo ralado e misture tudo até ficar com uma textura cremosa. Quando estiver terminando, adicione o sal, a pimenta e a noz moscada. Misture tudo até ficar o mais homogêneo possível e deixe repousar. Abra a massa e corte em quadrados, coloque o recheio no centro e dobre as pontas de uma diagonal uma de encontro com a outra e vá apertando até uma das extremidades deixando uma das pontas solta. Com isso pronto, é só levar ao forno e deixar entre vinte a vinte cinco minutos ou até que a massa fique dourada.",
+        },
+
+        {
+            receita: "Sopa de verruga de verme da Sally - O estranho mundo de Jack", 
+            imagem:"https://2.bp.blogspot.com/-vzn2tOnpZts/W1u9kwb5GBI/AAAAAAACFGA/OlHEwVWaQ8E6T3XJ-inHJQZdeK7r8Ah6wCK4BGAYYCw/s1600/O%2BEstranho%2BMundo%2Bde%2BJack%2B%2528326%2529.jpg",
+            ingredientes:"500 ml de água, 500 ml de caldo de legumes, 1 maço grande de coentro e cebolinha lavado e desinfetado, 1 pedaço de cebola, 1/2 xícara de creme de leite, Alcaparras, Sal e pimenta a gosto", 
+            preparo:"Aqueça o caldo e a água em uma panela. Em uma panela refougue a cebola. Misture o coentro e as alcaparras com a cebola e o caldo de legumes. Depois de fervido, tempere o creme de leite (Adicione e misture um pouco da sopa quente na xícara de creme frio duas ou três vezes, até atingir a mesma temperatura da sopa. Isso evitará que o creme coalhe) e adicione-o a sopa. Servir.",
         },
 
         {
@@ -168,6 +203,14 @@ function carregaDicionario(){
             ingredientes:"", 
             preparo:"",
         },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
 
     ] //chaves duplas pois é um conjunto de obj, se fosse um obj não 
     

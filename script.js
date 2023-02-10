@@ -191,10 +191,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Martini de maçã - Encantada ", 
+            imagem:"https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/63/78/11/18834978.jpg",
+            ingredientes:"3 maçãs vermelhas, 1 xícara de açúcar, 1 xícara de água, Gelo, 30ml de vodca, 1 limão espremido, 30 ml de suco de maçã", 
+            preparo:"Lave e corte as maçãs em pedaços, sem tirar a pele. Misture em uma panela em fogo médio junto com o açúcar e a água e deixe ferver. Quando a mistura ferver, reduza o fogo para ferver e continue cozinhando por 15 a 20 minutos. Deixe esfriar em temperatura ambiente por pelo menos meia hora. Coe o líquido e reserve. Em uma coqueteleira ou mixer, coloque 2 terços de gelo. Adicione o sumo de limão, sumo de maçã, vodka e 23 ml do xarope de maçã anterior. Misture ou agite por pelo menos 20 segundos. Sirva frio em um copo, opcionalmente com fatias de maçã.",
         },
 
         {

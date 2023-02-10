@@ -212,10 +212,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Big Renascença da Fada Madrinha - Shrek 2", 
+            imagem:"https://preview.redd.it/810nwh9ss2391.jpg?width=640&crop=smart&auto=webp&s=1198513f1dad09e6db81a19896b7e82d164cb1f0",
+            ingredientes:"Frango desfiado ou tiras de peito de frango grelhado, 1 pimentão vermelho, Tortilhas redondas, Hommus ou Maionese, Alface, Tomate             ", 
+            preparo:"Asse o pimentão e deixe suar em um saquinho por 15 min. Retire o queimado, retire as sementes e desfie. Corte a alface em tiras e pique o tomate. Aqueça as tortilhas em uma frigideira, espalhe hommus nas tortilhas. Coloque o restante dos ingredientes no centro e embrulhe como um burrito.",
         },
 
         {

@@ -142,10 +142,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Biscoitos do Come-Come - Vila Sésamo", 
+            imagem:"https://i.pinimg.com/originals/ad/83/72/ad8372a6a0537e269d8d0f3723b8a46d.png",
+            ingredientes:"3/4 xícara de manteiga ou margarina sem sal amolecida, 1 xícara de açúcar, 2 ovos ligeiramente batidos, 1 colher de chá de baunilha, 2 1/2 xícaras de farinha de trigo, 1 colher de chá de farinha de trigo, 1 colher de chá de sal", 
+            preparo:"Coloque 3/4 de xícara de manteiga ou margarina (um palito e meio) na tigela da batedeira. Meça 1 xícara de açúcar. Despeje o açúcar sobre a manteiga. Com um garfo, amasse a manteiga e o açúcar até que se misturem. Abra dois ovos e despeje os ovos sobre a mistura na tigela. Meça 1 colher de chá de baunilha e despeje sobre a mistura. Com um garfo, misture tudo na tigela. Meça 2 1/2 xícaras de farinha de trigo e despeje sobre a mistura na tigela. Meça 1 colher de chá de fermento em pó e polvilhe sobre a farinha. Meça 1 colher de chá de sal e polvilhe sobre a farinha e o fermento. Misture tudo com o garfo ou com as mãos. Coloque a massa na geladeira para esfriar pelo menos uma hora (você pode fazer muita massa de uma só vez e guardá-la em um saco plástico no freezer para assar no futuro). Abra os biscoitos com 1/2 centímetro de espessura, polvilhe com açúcar e asse a 200°C.",
         },
 
         {

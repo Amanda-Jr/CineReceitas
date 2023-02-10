@@ -226,6 +226,27 @@ function carregaDicionario(){
         },
 
         {
+            receita: "Rocambole do Lars - Steven Universo", 
+            imagem:"https://pm1.narvii.com/6589/9bfddf18fde1991844e543faf208135c79de0cd2_hq.jpg",
+            ingredientes:"Papel mantega, 1 xícara de farinha para bolo, 1/2 colheres de chá de fermento, 1/2 xícara de açucar, 1/2 colher de chá de sal, 4 gemas de ovo, 1/4 xícara de óleo, 1/3 xícara de leite, 1/2 colher de chá de ube aromatizante, 1/4 colher de chá de pasta de gel violeta ou corante alimentar, 4 claras de ovo, 1/4 colher de chá de creme de tártaro, 3/8 xícara de açúcar. Recheio de chantilly : 2 colheres (sopa) de manteiga, 3 colheres (sopa) de açúcar, 1/2 colher (café) de essência de baunilha, 1 lata de creme de leite sem soro, 1 pitada de fermento.", 
+            preparo:"Pré-aqueça o forno a 170 graus Celsius use forma retangular  média com papel Mantega, umidifique o papel Mantega com um pouco de óleo. Em uma tigela grande, combine os ingredientes da fase 1 Adicione com os da fase 2 , Bata com uma batedeira  ou com a mão até ficar suave e bem misturado. Em uma tigela separada, bata os ingredientes da fase 3 em alta velocidade até ficar espumoso, Adicione gradualmente com os da fase 4 e bata até ficar pastoso diminua gradualmente e cuidadosamente separe  as claras  da gema de ovo. Coloque a massa em uma forma  preparada e depois espalhe-se uniformemente nos lados. Asse por cerca de 25 a 30 minutos. Cubra a parte superior da forma com um novo pedaço de papel mantega e, em seguida, inverta-se para uma grade. Desmonte o bolo e remova imediatamente o papel manteiga  da parte inferior. Cubra o bolo com outro pedaço de papel manteiga . Deixe esfriar apenas até que não esteja mais quente ao tocar, cerca de 15-20 minutos. Bata o recheio do chantilly até ficar espumoso. Remova com cuidado o bolo. Obs: monte o bolo logo após esfriar para que não despedace. Espalhe cerca de 3/4 da chantilly enchendo uniformemente o bolo, deixando cerca de 3 cm de espaço no topo e enrole  usando o papel Mantega  como guia, cuidadosamente  role o bolo. Refrigere o bolo por cerca de uma hora para permitir que ele firme um pouco e torná-lo mais fácil de manusear. Retire  o papel de mantega e, em seguida, corte cerca de 3 cm fora das duas extremidades. Use um spray de chantilly para decorar a cobertura use morango, conceitos ou outras frutas se desejar. Transferir o bolo para uma bandeja para servir . Rende 6 porções",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
             receita: "", 
             imagem:"./img/",
             ingredientes:"", 

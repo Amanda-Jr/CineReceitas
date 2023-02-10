@@ -207,8 +207,8 @@ function carregaDicionario(){
         {
             receita: "Batatas e melado - O segredo além do jardim", 
             imagem:"https://thumbs.gfycat.com/SpecificFickleArgali-size_restricted.gif",
-            ingredientes:"", 
-            preparo:"",
+            ingredientes:"80g batata doce ou batata, 2 colheres sopa de manteiga sem sal, 3 colheres de sopa. de creme de leite, Sal e pimenta, 1 pitada de canela, 1 pitada de noz-moscada, 2 colheres de sopa. de melado            ", 
+            preparo:"Lave e descasque as batatas ou batata-doce. Corte em 2 ou 3 fatias cada, coloque em uma panela com água fria e cozinhe em fogo médio até que um garfo entre facilmente. Coe e espere que sequem.Amasse as batatas, junte a manteiga, o creme de leite e as especiarias. Banhe com o melado na hora de servir.",
         },
 
         {

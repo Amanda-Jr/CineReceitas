@@ -219,10 +219,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Naco do Ron - Kim Possible", 
+            imagem:"http://pm1.narvii.com/6161/8d85896edc0d5dd64cb4fcf0da3e64ac73f54bd2_hq.jpg",
+            ingredientes:"Tortilhas de farinha do tamanho de um burrito, 1/4 xícara de manteiga derretida, 400g. Carne moída, 1 pct. Tempero para Taco + Água (~ 3/4 xícara), 1 lata de queijo nacho, 1 Lata de Feijão Refogado, Tortilla Chips De Milho, 1 Tomate, bem picadinho, Alface de folhas verdes, algumas folhas (necessárias apenas se fizer o estilo de tigela reunida), Maionese (opcional)", 
+            preparo:"Em uma panela grande doure a carne e prepare-a conforme as instruções do pacote de temperos para tacos (tempero em pó + água). Quando estiver cozinhando a carne, certifique-se de quebrá-la muito bem com uma espátula. Em 2 panelas médias, aqueça o feijão frito e o queijo nacho (1 panela para feijão, 1 panela para queijo). Corte o tomate em cubos e quebre vários chips em pedaços menores. Pré-aqueça o forno a 350ºF. Coloque uma tortilha em uma assadeira e pincele levemente com manteiga derretida. Coloque uma tigela de cerâmica no meio e junte as bordas da tortilha ao redor. Amarre um pouco de barbante ao redor da parte superior da tortilha reunida para mantê-la no lugar, puxando-a o suficiente para que a tortilha não fique simplesmente reta para cima e para baixo, mas fique um pouco no topo. Pincele um pouco de manteiga nas dobras da tortilla e levante tudo para pincelar a manteiga por baixo, na bandeja. Leve tudo ao forno e asse até que as bordas da tortilla fiquem douradas e a tortilla esteja dura, cerca de 5 a 10 minutos. Retire do forno e desamarre o barbante. Abra com cuidado a tortilla junta só um pouquinho, o suficiente para retirar da tigela. Coloque algumas folhas pequenas de alface na tortilha e, em seguida, coloque os outros ingredientes do recheio como desejar, além da maionese opcional.",
         },
 
         {

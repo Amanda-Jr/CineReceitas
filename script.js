@@ -254,10 +254,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Ensopado da Tiana (Gumbo) - A princesa e o sapo", 
+            imagem:"http://www.spicescave.com/blog/wp-content/uploads/2015/10/Gumbo_recetas-disney.jpg",
+            ingredientes:"1 kg de peito de frango; 400g de linguiça defumada; 50g de farinha de trigo; 50g de margarina; 100g de cebola picada; 40g de alho picado; 100g de pimentão verde fatiado; 10ml de molho inglês; 400ml de caldo de carne; 100g de quiabo; 100g de camarões;  Molho tabasco a gosto; Sal.", 
+            preparo:"Primeiro, asse as calabresas e o frango picado em cubos em um pouco de óleo, tempere com sal e pimenta. Retire da panela, e nessa panela refogue o alho, a cebola e o pimentão. Retire eles da panela, então coloque a margarina na mesma panela e a farinha para fazer um roux. Quando eles misturarem, deixe obter uma cor amarronzada leve. Vá adicionando o caldo de carne e mexendo. Então junte tudo: as carnes e os vegetais. Adicione o molho inglês, o quiabo e os camarões. Deixe cozinhar por 10 minutos e está pronto. Finalize com pimenta tabasco.",
         },
 
         {

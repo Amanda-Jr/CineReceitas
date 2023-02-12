@@ -233,6 +233,27 @@ function carregaDicionario(){
         },
 
         {
+            receita: "Donuts do Homer Simpson - Os Simpsons", 
+            imagem:"http://d3ugyf2ht6aenh.cloudfront.net/stores/438/755/products/bd192f2723f7d81013f04903d9e0428b1-0af02ae88c4672c25416197943153207-640-0.png",
+            ingredientes:"Massa:45g de fermento biológico, 120ml de água, 200g de farinha de trigo, 100g de açúcar, 1 colher de sopa rasa de sal, 100g de margarina ou manteiga, 3 ovos, 250ml de água, 800g de farinha (aproximadamente).      Cobertura: 1 xícara de açúcar de confeiteiro, 3 colheres de sopa de água, 2 colheres de café de groselha ou corante(só se quiser deixar rosinha, senão não precisa).", 
+            preparo:" O primeiro passo é fazer a fermentação. Em uma tigela, coloque a farinha de trigo, o fermento e a água, misture e deixe descansar por 20 minutos. Passado esse tempo, junte os ovos, o sal, a manteiga, o açúcar e a água e mexa bem. Passe essa massa para uma superfície lisa, e sove. Vá polvilhando farinha de trigo e sovando, até não grudar mais nas mãos. Deixe descansar por 30 minutos e, após esse tempo, abra um pedaço da massa com um rolo em uma superfície polvilhada com farinha de trigo e deixe ficar com 1cm de espessura. Faça o corte redondo, com a ajuda de um copo ou uma forma. Agora faça outro corte redondo no centro, usando algo menor, para formar a rosquinha. Coloque em uma assadeira e deixe descansar por mais 30 minutos. Aqueça uma panela com óleo até ficar morno, frite até dourar e escorra em papel-toalha. Para a cobertura, misture em uma tigela a água e o açúcar de confeiteiro, até formar um creme. Se quiser o creme rosa, adicione a groselha ao creme branco e mexa. Passe o creme sobre os donuts, decore com confeito colorido e pronto!",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
+            receita: "", 
+            imagem:"./img/",
+            ingredientes:"", 
+            preparo:"",
+        },
+
+        {
             receita: "", 
             imagem:"./img/",
             ingredientes:"", 

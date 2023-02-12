@@ -1,3 +1,4 @@
+/*
 function carregaDicionario(){
     var Receitas = [
         {
@@ -300,3 +301,4 @@ function carregaDicionario(){
 }
 
 carregaDicionario()
+*/

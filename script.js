@@ -268,10 +268,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Vichyssoise do Remy - Ratatouille", 
+            imagem:"https://64.media.tumblr.com/8f8f630547db4d8b4898be16a7f48605/297ec5851beb3f95-b2/s540x810/0e8663ffe8dfc042b03201ee05ba7492713094da.gifv",
+            ingredientes:"2 colheres de sopa de azeite, 2 alhos-porós em rodelas finas, 1 cebola picada, 3 dentes de alho picados, 3 batatas picadas, 4 xícaras de caldo de legumes, 1 colher de chá de sal, 1/2 colher de chá de pimenta do reino moída, 1 colher de sopa de cheiro verde picado, 1 colher de chá tomilho seco ou 2 raminhos de tomilho fresco, 1 folha de louro seca, 50g de creme de leite.", 
+            preparo:"Numa panela coloque o azeite e refougue o alho poró, a cebola e o alho. Adicione a batata, o caldo de legumes, sal, pimenta do reino, cheiro verde, tomilho, o louro e o creme de leite. Cozinhe por aproximadamente 40 minutos ou até que as batatas estejam macias. Bata a sopa no liquidificador para até ficar homogênea. Despeje numa panela e sirva.",
         },
 
 

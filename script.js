@@ -261,10 +261,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Torta de Maçã - Branca de Neve e os sete anões", 
+            imagem:"https://i.pinimg.com/originals/9f/43/95/9f43959deb74adcceccd6151fe4a02aa.jpg",
+            ingredientes:"Massa (Pâte Brisée): 500g de farinha de trigo (4 xícaras), 1/2 colher de chá de sal, 250g de manteiga sem sal, 2 gemas de ovo, água para dar o ponto, 1 ovo.      Recheio: 6 maçãs (3 verdes e 3 vermelhas), Suco de 1/2 limão, 1 xícara de açúcar mascavo, 1 1/2 colher de chá de canela em pó, 1 colher de chá de noz moscada, 1 colher de sopa de essência de baunilha, 1/2 xícara de farinha de rosca.", 
+            preparo:"Em uma tigela coloque a farinha de trigo o sal e misture. Ponha a manteiga e incorpore usando a ponta dos dedos até que a massa ganhe formato ao apertar. Adicione as gemas e misture adicionando água até a massa desgrude do fundo da tigela. Divida a massa em duas partes, enrole-as em saquinhos plásticos e leve á geladeira por 20 minutos. Retire da geladeira uma das partes e abra a massa num plástico filme até chegar em 3 milímetros de espessura. Distribua a massa numa assadeira ajeitando com as pontas dos dedos e corte os excessos. Fure toda a massa com um garfo e leve ao congelador por 15 minutos. Coloque um papel manteiga sobre a massa e outra forma sobre o papel (para fazer peso). Leve ao forno a 180°C por 15 minutos. Retire do forno, e tire a forma e papel manteiga. Espalhe a clara  pela superfície da massa e leve ao forno novamente por 10 minutos ou até dourar. Descasque e fatie as maçãs e coloque numa tigela com o limão, o açúcar mascavo, a canela, a noz-moscada, amido de milho e a essência de baunilha. Misture os ingredientes e deixe descansar por 30 minutos. Pegue a massa assada, coloque a farinha no fundo e coloque o recheio por cima. Cubra a torta com a outra metade da massa, tire o excesso das bordas e faça cortes no topo da torta para que o ar saía durante o cozimento. Pincele uma gema pela torta e leve ao forno a 180°C por 30 minutos ou até dourar. Sirva-se.",
         },
 
         {

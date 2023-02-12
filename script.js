@@ -247,10 +247,10 @@ function carregaDicionario(){
         },
 
         {
-            receita: "", 
-            imagem:"./img/",
-            ingredientes:"", 
-            preparo:"",
+            receita: "Suflê de queijo - A Bela e a Fera", 
+            imagem:"https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_320,h_230/image-uploads/quiz-question-alternative-image/png/720b558b1703f7066fbe881e043642a3.png",
+            ingredientes:"50g de manteiga, 1/3 xícara de farinha de trigo, 300ml de leite, 4 gemas, 4 claras em neve, 100g de queijo ralado, Pimenta e Sal á gosto.", 
+            preparo:"Numa panela derreta a manteiga e adicione a farinha. Misture e acrescente o leite mexendo até engrossar. Desligue o fogo. Tempere com sal e pimenta e misture as gemas e o queijo. Incorpore as claras em neve delicadamente. Despeje em forminhas colocando massa até a metade de cada uma e leve ao forno a 180°C por aproximadamente 25 minutos. Quando o suflê inflar sirva imediatamente.",
         },
 
         {

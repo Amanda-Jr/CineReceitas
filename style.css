@@ -171,10 +171,24 @@ section{
     box-shadow: 7px 7px #090b30;
 }
 
+@media (max-width: 700px){
+    #formulario{
+        max-width: 300px;
+        flex-direction: column;
+    }
+}
+
 h2{
     font-size: 2rem;
     margin: 2rem 0;
     text-align: center;
+}
+
+@media (max-width: 768px){
+    h2{
+        font-size: 1.5rem;
+        margin: 2rem 1rem;
+    }
 }
 
 form {
@@ -211,6 +225,12 @@ form button{
     box-shadow: 3px 3px #9e1515;
     text-transform: uppercase;
     cursor: pointer;
+}
+
+@media (max-width: 768px){
+    form button{
+        margin-bottom: 10px;
+    }
 }
 
 form button:hover{

@@ -300,8 +300,8 @@ function carregaDicionario(){
     }
 
     var formulario = document.getElementById("formulario")
-    formulario.innerHTML += 
-    '<h2>Envie sua sugestão de receita!</h2>' +
+    formulario.innerHTML += (
+        '<h2>Envie sua sugestão de receita!</h2>' +
     ' <form action="https://formsubmit.co/amandadasilvapereira162004@gmail.com" method="POST">' +
     '<label for="">Nome</label>' +
     '<input type="text" name="name" id="name" required>' +
@@ -310,7 +310,10 @@ function carregaDicionario(){
     '<textarea name="message" id="" cols="30" rows="10" placeholder="Escreva aqui sua sugestão"></textarea>' +
     '<input type="hidden" name="_next" value="https://amanda-jr.github.io/CineReceitas/">' +
     '<input type="hidden" name="_captcha" value="false" />' +
-    '<button type="submit">Enviar</button>'
+    '<button type="submit">Enviar</button>' +
+    '</form>'
+    )
+    
 
 }
 

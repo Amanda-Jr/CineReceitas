@@ -138,24 +138,13 @@ section{
     }
 }
 
-.card details dt {
+.card details ul {
     margin: 10px 10px;
     font-weight: bold;
 }
 
-.card details dd {
+.card details li {
     margin: 10px 10px;
-}
-
-.card details p{
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-@media (max-width:768px){
-    .card details p{
-        font-size: 14px;
-    }
 }
 
 #formulario{

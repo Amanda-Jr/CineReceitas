@@ -1,7 +1,7 @@
 ![Alt=""](./README-img/tela-1.JPG)
 
 # Cine Receitas
-Acesse [aqui] site do projeto(https://amanda-jr.github.io/CineReceitas/)
+Acesse [aqui](https://amanda-jr.github.io/CineReceitas/) o site do projeto
 
 ## Sobre
 Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
@@ -10,6 +10,7 @@ Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
 * HTML
 * CSS
 * JavaScript
+
 
 ## Projeto por dentro
 * Quando você acessa o link
@@ -24,4 +25,4 @@ Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
 * Redes sociais
 ![Alt=""](./README-img/footer.JPG)
 
-> Estou aberta a sugestões de melhoras. Obrigada por visitar este projeto!
+> Obrigada por visitar este projeto! Estou aberta a sugestões de melhoria do código.

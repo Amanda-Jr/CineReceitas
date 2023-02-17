@@ -28,4 +28,4 @@ Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
 
 ![Alt=""](./README-img/footer.JPG)
 
-> Obrigada por visitar este projeto! Estou aberta a sugestões de melhoria do código.
+### > Obrigada por visitar este projeto! Estou aberta a sugestões de melhoria do código.

@@ -13,7 +13,7 @@ Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
 
 
 ## Projeto por dentro
-###* __Quando você acessa o link__
+### * __Quando você acessa o link__
 
 ![Alt=""](./README-img/tela-1.JPG)
 

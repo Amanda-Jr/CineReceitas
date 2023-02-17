@@ -13,16 +13,17 @@ Neste projeto você encontra receitas feitas ou inspiradas em filmes e séries!
 
 
 ## Projeto por dentro
-* Quando você acessa o link
+* __Quando você acessa o link__
 ![Alt=""](./README-img/tela-1.JPG)
 
-* Acessando as receitas
+* __Acessando as receitas__
+
 ![Alt=""](./README-img/details-exemplo.JPG)
 
-* Formulário de sugestões
+* __Formulário de sugestões__
 ![Alt=""](./README-img/formulario.JPG)
 
-* Redes sociais
+* __Redes sociais__
 ![Alt=""](./README-img/footer.JPG)
 
 > Obrigada por visitar este projeto! Estou aberta a sugestões de melhoria do código.

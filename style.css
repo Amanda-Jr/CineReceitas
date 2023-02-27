@@ -119,6 +119,7 @@ section{
     width: 300px;
     height: auto;
     background-color: #f5daa1;
+    cursor: pointer;
 }
 
 @media (max-width:768px){

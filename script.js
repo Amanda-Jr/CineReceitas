@@ -1,11 +1,11 @@
 
 function carregaDicionario(){
-    var Receitas = [
+    const Receitas = [
         {
             receita: "Manjar Turco - As Crônicas de Nárnia", 
-            imagem:"https://www.grandturkishbazaar.com/pt/wp-content/uploads/2017/12/rose-flavoured-turkish-delight-2.jpg",
+            imagem:"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/be453a9808dd358300749b6625a23664.jpg",
             ingredientes: ['1 xícara de Água', '5 colheres (sopa) Amido de Milho', '2 xícaras Açúcar', '1/2 xícara Suco de Laranja natural', '2 colheres (sopa) Xarope de Romã', 'Açúcar de confeiteiro suficiente para empanar'],      
-            preparo:"Em um panela, colocar para aquecer 1/2 xícara de água. Quando a água estiver quente, adicionar o açúcar e o suco de laranja. Mexer até o açúcar derreter. Enquanto o açúcar derrete, misturar o restante da água com o amigo de milho. Quando o açúcar estiver todo derretido, juntar o amido de milho com a calda e deixar engrossar até ficar com textura de gel (cerca de 15 minutos), mexendo sempre para que não grude no fundo da panela. Desligar o fogo e adicionar o xarope de romã. Forrar uma forma pequena com papel filme e despejar a mistura. Esperar esfriar por no mínimo 3 horas em temperatura ambiente. Polvilhar em uma tábua açúcar de confeiteiro e colocar o manjar turco. Cortar em cubos e empanar o manjar na açúcar de confeiteiro",
+            preparo:['Em um panela, colocar para aquecer 1/2 xícara de água', 'Quando a água estiver quente, adicionar o açúcar e o suco de laranja', 'Mexer até o açúcar derreter', 'Enquanto o açúcar derrete, misturar o restante da água com o amido de milho', 'Quando o açúcar estiver todo derretido, juntar o amido de milho com a calda e deixar engrossar até ficar com textura de gel (cerca de 15 minutos), mexendo sempre para que não grude no fundo da panela.', 'Desligar o fogo e adicionar o xarope de romã.', 'Forrar uma forma pequena com papel filme e despejar a mistura.', 'Esperar esfriar por no mínimo 3 horas em temperatura ambiente.', 'Polvilhar em uma tábua açúcar de confeiteiro e colocar o manjar turco.', 'Cortar em cubos e empanar o manjar na açúcar de confeiteiro'],
         },
         
         {
@@ -281,24 +281,47 @@ function carregaDicionario(){
     
     
 
-    var content = document.getElementById("content")
+    let content = document.getElementById("content")
 
-    for(var item in Receitas){
+    for(let item in Receitas){
+        let listaIngredientes = '<ul id="IngredientesLista">';
+        for(let i=0; i<Receitas[item].ingredientes.length; i++){
+        listaIngredientes += '<li>' + Receitas[item].ingredientes[i] + '</li>';
+        }
+        listaIngredientes += '</ul>';
+
+        let listaPreparo = '<ol id="PreparoLista">'
+        for(let i=0; i<Receitas[item].preparo.length; i++){
+            listaPreparo += '<li>' + Receitas[item].preparo[i] + '</li>'
+        }
+        listaPreparo += '</ol>';
+        
         content.innerHTML +=
-        '<div class="card">' + 
+        
+        '<div class="card">' +
+        
         '<img src="' + Receitas[item].imagem + '"/>' +
-        '<details>' + 
+        
+        '<details>' +
+        
         '<summary>' + Receitas[item].receita + '</summary>' +
-        '<ul id="IngredientesLista"> Ingredientes </ul>' +
-        '<li>' +   Receitas[item].ingredientes + '</li>' +
-        '<ul> Preparo </ul>' +
-        '<li>' + Receitas[item].preparo + '</li>' +
-        '</details>' + 
-        '</div>'
+
+        '<p> Ingredientes </p>' +
+        
+        listaIngredientes +
+        
+        '<p> Preparo </p>' +
+        
+        listaPreparo +
+        
+        '</details>' +
+        
+        '</div>';
+        
     }
 
 
-    var formulario = document.getElementById("formulario")
+    let formulario = document.getElementById("formulario")
     formulario.innerHTML += (
         '<h2>Envie sua sugestão de receita!</h2>' +
         ' <form action="https://formsubmit.co/amandadasilvapereira162004@gmail.com" method="POST">' +
